@@ -22,12 +22,12 @@ Description: A simple React Native module to use numberpicker on Android platfor
   - *Responsibilities*: Development of NodeJS, React, and React Native applications with MySQL and PostgreSQL databases.
 
 - **E2time.com, RH solution startup**
-  - *Position*: Full-Stack React / React Native / NodeJS developer
+  - *Position*: Full-Stack mobile React / React Native / PHP developer
   - *Duration*: November 2019 - November 2023
   - *Responsibilities*: Responsible for the redesign, evolution, maintenance, and deployment of a React Native mobile application (iOS and Android). Feature development with Redux and REST API in PHP. Creation of unit and functional tests (Jest, React Native Testing Library, ADB, PHPUnit) with GitLab CI. Development and maintenance of an Android Java application for biometric time clocks (RxJava, Room).
  
 - **Cawita, web app agency**
-  - *Position*: Full-Stack React / React Native / NodeJS developer
+  - *Position*: Full-Stack Angular NodeJS developer
   - *Duration*: May 2019 - August 2019
   - *Responsibilities*: Development of a NodeJS / MongoDB / Angular web application focused on the digitalization of business processes.
  
