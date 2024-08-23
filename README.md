@@ -17,6 +17,9 @@ Description: A simple React Native module to use numberpicker on Android platfor
 ### [startapp-backend](https://github.com/nicolastorre/startapp-backend)
 Description: A NestJS backend to init API backend project
 
+### [startapp-frontend](https://github.com/nicolastorre/startapp-frontend)
+Description: A React frontend basic app to communicate with the startapp-backend
+
 ## Professional Experience
 
 - **Freelance**
