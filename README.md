@@ -7,7 +7,7 @@ I am a passionate developer with 9 years of experience in web and mobile develop
 - **Programming Languages**: TypeScript, JavaScript, PHP, Java, Kotlin
 - **Frameworks**: React Native, React, NestJS
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools and Platforms**: Docker, AWS, Git, Gitlab CI, Github Actions
+- **Tools and Platforms**: Docker, Git, Gitlab CI, Github Actions
 
 ## Notable Projects
 
